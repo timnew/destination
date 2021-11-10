@@ -1,0 +1,19 @@
+name: destination
+description: A library that makes Flutter Navigation 2.0 easier to use
+version: 0.1.0
+homepage: https://pub.dev/packages/destination
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
