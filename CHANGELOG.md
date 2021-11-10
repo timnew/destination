@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.1.0-beta
 
-* TODO: Describe initial release.
+* Extract the code into independent package
