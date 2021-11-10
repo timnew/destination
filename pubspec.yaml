@@ -1,6 +1,6 @@
 name: destination
 description: A library that makes Flutter Navigation 2.0 easier to use
-version: 0.1.0
+version: 0.1.0-pre.1
 homepage: https://pub.dev/packages/destination
 
 environment:
